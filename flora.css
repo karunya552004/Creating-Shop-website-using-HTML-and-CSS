@@ -1,0 +1,73 @@
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 80px;
+    font-size: large;
+    
+}
+.v1{
+    background-color: rgba(63, 61, 62, 0.644);
+    border: 2px solid rgb(56, 54, 54);
+}
+.oo{
+    position: absolute;
+    top: 0.5rem;
+    float: left;
+    width: 80px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.about{
+    text-align: center;
+}
+h2{
+    margin-top:4%;
+}
+h4{
+    float: left;
+    margin: 1%;
+    padding-left: 0%;
+    padding-right: 50%;
+    text-align: justify;
+}
+.v3{
+    width: 350px;
+    height: 200px;
+    float: right;
+    position: absolute;
+    left: 56rem;
+    top: 56rem;
+}
+.serv{
+    text-align: center;
+}
+.del2{
+    float: right;
+    position: absolute;
+    right: 5rem;
+    top: 78rem;
+}
+.del3{
+    position: absolute;
+    right: 34rem;
+    width: 275px;
+    height: 183px;
+    top: 78rem;
+}
+.deli{
+    position: absolute;
+    top: 78rem;
+}
+.con{
+    text-align: end;
+    position: absolute;
+    top: 88rem;
+    text-decoration: underline;
+}
+.van{
+    position: absolute;
+    text-align: center;
+    top: 100rem;
+}
