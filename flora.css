@@ -1,4 +1,4 @@
-ul{
+l{
     list-style-type: none;
 }
 li{
@@ -8,19 +8,21 @@ li{
     
 }
 .v1{
-    background-color: rgba(63, 61, 62, 0.644);
+    background-color: rgba(248, 247, 248, 0.644);
     border: 2px solid rgb(56, 54, 54);
 }
 .oo{
     position: absolute;
-    top: 0.5rem;
+    top: 0.6rem;
     float: left;
-    width: 80px;
+    width: 68px;
     margin-top: 0px;
     padding-top: 0px;
+    border: 1px solid black;
 }
 .about{
     text-align: center;
+    background-color: rgb(97, 97, 97);
 }
 h2{
     margin-top:4%;
@@ -38,11 +40,11 @@ h4{
     float: right;
     position: absolute;
     left: 56rem;
-    top: 56rem;
+    top: 57.6rem;
 }
 .serv{
     text-align: center;
-    background-color: rgba(82, 77, 77, 0.527);
+    background-color: rgb(97, 97, 97);
 }
 .del2{
     float: right;
@@ -64,9 +66,10 @@ h4{
 .con{
     text-align: right;
     position: absolute;
-    top: 90rem;
+    top: 89rem;
     right: 0rem;
     text-decoration: underline;
+    margin: 3%;
 }
 .van{
     position: absolute;
@@ -74,21 +77,43 @@ h4{
     top: 100rem;
 }
 .prod{
-    text-align: center;
     top: 93rem;
     position: absolute;
     right: 38rem;
-    background-color: rgba(82, 77, 77, 0.527);
+    background-color: rgb(97, 97, 97);
+    width: 97%;
+    text-align: center;
+    left: 0.7rem;
 }
 .cll{
     position: absolute;
-    top:100rem;
+    top:103rem;
     right:50rem;
     width: 300px;
 }
 .clk{
     position: absolute;
-    top: 100rem;
+    top: 103rem;
     right: 20rem;
     width: 300px;
 }
+.for{
+    position: absolute;
+    top: 130rem;
+    background-color: rgb(97, 97, 97);
+    width: 100%;
+    text-align: center;
+}
+.me{
+    position: absolute;
+    top: 147rem;
+    width: 100%;
+    background-color: rgb(97, 97, 97);
+    text-align: center;
+    margin: 1.5%;
+    padding: 2%;
+}
+button{
+    padding: 0.5%;
+}
+
