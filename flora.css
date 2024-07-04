@@ -42,6 +42,7 @@ h4{
 }
 .serv{
     text-align: center;
+    background-color: rgba(82, 77, 77, 0.527);
 }
 .del2{
     float: right;
@@ -61,13 +62,33 @@ h4{
     top: 78rem;
 }
 .con{
-    text-align: end;
+    text-align: right;
     position: absolute;
-    top: 88rem;
+    top: 90rem;
+    right: 0rem;
     text-decoration: underline;
 }
 .van{
     position: absolute;
     text-align: center;
     top: 100rem;
+}
+.prod{
+    text-align: center;
+    top: 93rem;
+    position: absolute;
+    right: 38rem;
+    background-color: rgba(82, 77, 77, 0.527);
+}
+.cll{
+    position: absolute;
+    top:100rem;
+    right:50rem;
+    width: 300px;
+}
+.clk{
+    position: absolute;
+    top: 100rem;
+    right: 20rem;
+    width: 300px;
 }
